@@ -1,0 +1,15 @@
+body {
+	background-color: #e0e0e0;
+}
+
+div.frame {
+	max-width: 300px;
+	max-height: 400px;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+
+.slim {
+	border-radius: 0.5rem;
+	border: 1px solid #eaeaea;
+}
