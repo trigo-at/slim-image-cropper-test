@@ -1,0 +1,1 @@
+# slim-image-cropper-test
